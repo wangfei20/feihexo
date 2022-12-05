@@ -1,0 +1,6 @@
+<h3>This is the main page</h3>
+<% for(var post of site.posts){%>
+  <div>
+    <a href="<%- post.path%>"> <%- post.program %> - <%- post.title%> </a>
+  </div>
+<% }%>

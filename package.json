@@ -1,0 +1,14 @@
+{
+  "name": "feihexo",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "3.x",
+    "js-yaml":"latest",
+    "ejs":"latest",
+    "markdown":"latest",
+    "yaml-front-matter":"latest"
+  }
+}
